@@ -11,11 +11,10 @@ pleiades_id,name,type,reprLat,reprLong
 599588,Delos,island,37.393333,25.271111
 540726,Delphi,city/settlement,38.482289,22.501169
 501410,Eion,city/settlement,40.7893235,23.872848
-579920,Eleusis,city/settlement,38.041101,23.537401
+579920,Eleusis,sanctuary,38.041101,23.537401
 550535,Erythrai,city/settlement,38.382361,26.47994
 638837,Eurymedon,city/settlement,37.823352,31.127989
 599667,Ikaros,island,37.6305806,26.0732143
-589836,Kamiros,city/settlement,36.336185,27.921195
 570336,Karystos,city/settlement,38.016541,24.420381
 599578,Kolophon,city/settlement,37.9952785,27.200852
 550696,Lesbos,island,39.2074811,26.1342123
@@ -27,7 +26,6 @@ pleiades_id,name,type,reprLat,reprLong
 599805,Mykale,promontory,37.666667,27.083333
 599822,Naxos,island,37.05,25.49
 501535,Olophyxos,city/settlement,40.330422,24.190639
-599873,Pedasa,city/settlement,37.054602,27.412789
 922695,Persepolis,city/settlement,29.93534033,52.889437
 541063,Plataia,city/settlement,38.21573033,23.27184733
 599926,Samos,island,37.73,26.84
@@ -38,3 +36,18 @@ pleiades_id,name,type,reprLat,reprLong
 570685,Sparta,city/settlement,37.077905,22.4272985
 452457,Sybaris/Thurii,city/settlement,39.715694,16.490886
 501635,Thasos,island,40.683333,24.65
+520977,Bosporos,body_of_water,41.119444,29.075278
+590031,Rhodes,island,36.195597,27.964125
+511381,Propontis,body_of_water,40.6666672,28.2499999
+981526,Hellespont,body_of_water,40.346685,26.699162
+501439,Imbros,island,40.160833,25.844444
+550693,Lemnos,island,39.916667,25.25
+599612,Ephesos,city/settlement,37.9407625,27.340307
+589748,Crete,island,35.21646954,24.98613689
+570531,Olympia,sanctuary,37.63868942,21.63087478
+570182,Corinth ,city/settlement,37.89800162,22.89997954
+540703,Chalkis,city/settlement,38.457139,23.621937
+541138,Thebes,city/settlement,38.319156,23.317577
+501347,Amphipolis,city/settlement,40.8219755,23.847005
+491663,Methone,city/settlement,40.446376,22.587828
+639051,Phaselis,city/settlement,36.52280633,30.549049
